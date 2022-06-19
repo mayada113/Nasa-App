@@ -1,0 +1,14 @@
+.navBar-element {
+  margin: 10px;
+  color: #e3e1e1;
+  text-decoration: none;
+}
+.navbar {
+  background-color: #460a25;
+  height: 50px;
+}
+#nasaLogo{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
